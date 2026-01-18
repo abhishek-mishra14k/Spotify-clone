@@ -15,7 +15,6 @@
   <p>
     <img src="https://img.shields.io/badge/HTML-Structure-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Status-Frontend--Only-success?style=for-the-badge" />
   </p>
 
@@ -38,7 +37,7 @@
 
 <p>
   <strong>Spotify Frontend Clone</strong> is a web-based UI project
-  built using <b>HTML, CSS, and JavaScript</b>.
+  built using <b>HTML and CSS</b>.
   It replicates the core interface and user experience
   of the Spotify music streaming platform.
 </p>
@@ -59,15 +58,11 @@
   </tr>
   <tr>
     <td>Technologies</td>
-    <td>HTML, CSS, JavaScript</td>
+    <td>HTML, CSS</td>
   </tr>
   <tr>
     <td>Design</td>
     <td>Spotify Inspired UI</td>
-  </tr>
-  <tr>
-    <td>Responsive</td>
-    <td>Yes</td>
   </tr>
 </table>
 
